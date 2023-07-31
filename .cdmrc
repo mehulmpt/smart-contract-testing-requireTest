@@ -1,1 +1,2 @@
 tabs: ['contracts/Even.sol']
+terminals: ['yarn install']
